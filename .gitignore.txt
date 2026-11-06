@@ -1,0 +1,5 @@
+gifs/
+music/
+__pycache__/
+*.pyc
+gifs_cache.json
